@@ -5,7 +5,9 @@ in this code the arduino determines the component is capacitor or resistor and m
 
 
 theory we can deduce it is a capaitor or resistor from average rate of change of voltage with respect to time
+
 since q = c * v
+
 therefore q varies directly with v. so if voltage changes it is a capacitor.
 
 
