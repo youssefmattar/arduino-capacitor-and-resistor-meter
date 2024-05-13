@@ -29,5 +29,5 @@ therefore R = Vr/( (5-Vr) / 10000 ).
 
 
 
-The capacitance code was taken from 
+The capacitance code and theory was taken from 
 https://www.circuitbasics.com/how-to-make-an-arduino-capacitance-meter/
