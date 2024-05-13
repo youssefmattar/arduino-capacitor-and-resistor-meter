@@ -1,5 +1,6 @@
 # arduino-capacitor-and-resistor-meter
-arduino code to measure capacitance and resistance
+arduino code to measure capacitance and resistance.
+This was my physics II project
 
 in this code the arduino determines the component is capacitor or resistor and measures it.
 
